@@ -1,0 +1,79 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.inner1 {
+    background-color: red;
+    margin: 15px;
+    border-radius: 5px;
+    width: 300px;
+    font-size: 72px;
+    text-align: center;
+    color: white;
+    transition: all 1s linear;
+}
+
+.inner2 {
+    background-color: red;
+    margin: 15px;
+    border-radius: 5px;
+    width: 300px;
+    font-size: 72px;
+    text-align: center;
+    color: white;
+    transition: all 1s ease-in;
+}
+
+.inner3 {
+    background-color: red;
+    margin: 15px;
+    border-radius: 5px;
+    width: 300px;
+    font-size: 72px;
+    text-align: center;
+    color: white;
+    transition: all 1s ease-out;
+}
+
+.inner4 {
+    background-color: red;
+    margin: 15px;
+    border-radius: 5px;
+    width: 300px;
+    font-size: 72px;
+    text-align: center;
+    color: white;
+    transition: all 1s ease-in-out;
+}
+
+.inner5 {
+    background-color: red;
+    margin: 15px;
+    border-radius: 5px;
+    width: 300px;
+    font-size: 72px;
+    text-align: center;
+    color: white;
+    transition: all 1s linear;
+}
+
+.inner1:hover {
+    width: 1850px;
+}
+
+.inner2:hover {
+    width: 1850px;
+}
+
+.inner3:hover {
+    width: 1850px;
+}
+
+.inner4:hover {
+    width: 1850px;
+}
+
+.inner5:hover {
+    width: 1850px;
+}
